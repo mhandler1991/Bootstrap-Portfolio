@@ -36,6 +36,10 @@ body {
   ========================================
 */
 
-html body {
-	height: 100%;
+
+.footer-border {
+	background-color: grey; 
+	border-color:#4aaaa5;
+	border-top-width: 5px;
+	border-style: solid;
 }
